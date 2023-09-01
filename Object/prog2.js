@@ -14,3 +14,4 @@ let person = {
 
 person.subjects.msg()
 
+//Hello
