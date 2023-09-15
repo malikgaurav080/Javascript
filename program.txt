@@ -1,0 +1,17 @@
+Input -->My name is gaurav malik and i belong to bareilly
+
+Output --> Myname isgaurav malikand ibelong tobareilly
+output --> yMeman sivaruag kilamdna ignoleb otyllierab
+
+
+str = 'A journey of thousand miles begins with a single step'
+
+// Create function to count the number of characters in the specified string.
+//Create a function to count the number of vowels in the specified string.
+//Create a function to check the existence of the given string in the specified string.
+//Create a function to replace a word 'miles' to 'kilometers'.
+//Create a function to convert the specified string into Title Case.
+//Create a function to find the maximum occuring character in specified string.In case of equal occurence of more than one character, the last occurence character should be considered.
+//Create a function to find the largest word (in terms of length) in the specified string.
+
+

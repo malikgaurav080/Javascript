@@ -1,4 +1,4 @@
-str = "This is Gaurav Malik"
+// str = "This is Gaurav Malik"
 // output ---> "sihT si varuaG kilaM"
 function RevStr(str){
     revStr = ""
@@ -9,16 +9,22 @@ function RevStr(str){
 return revStr
 }
 
-arr = str.split(' ')
-output = []
-for(word of arr){
-    output.push(RevStr(word))
-}
 
-console.log(output.join(' '))
+module.exports = RevStr //for .js extension
+ //default export in .mjs extension
+
+// arr = str.split(' ')
+// output = []
+// for(word of arr){
+//     output.push(RevStr(word))
+// }
+
+// console.log(output.join(' '))
 
 
-str1 = "My name is Gaurav Malik"
-//task join split reverse 
-//note reverse is only for array not string
- console.log(str1.split('').reverse().join(''));
+// str1 = "My name is Gaurav Malik"
+// //task join split reverse 
+// //note reverse is only for array not string
+//  console.log(str1.split('').reverse().join(''));
+
+
